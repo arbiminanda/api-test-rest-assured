@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-19T23:27:15 ICT" name="Default suite" finished-at="2022-02-19T23:27:21 ICT" duration-ms="6309">
+    <groups>
+    </groups>
+    <test started-at="2022-02-19T23:27:15 ICT" name="Default test" finished-at="2022-02-19T23:27:21 ICT" duration-ms="6309">
+      <class name="apiTest.createMockUpAPI">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apiTest.createMockUpAPI@6a6afff2]" started-at="2022-02-19T23:27:15 ICT" name="setUp" finished-at="2022-02-19T23:27:16 ICT" duration-ms="1253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createAPI()[pri:0, instance:apiTest.createMockUpAPI@6a6afff2]" started-at="2022-02-19T23:27:16 ICT" name="createAPI" finished-at="2022-02-19T23:27:21 ICT" duration-ms="4466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAPI -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apiTest.createMockUpAPI@6a6afff2]" started-at="2022-02-19T23:27:21 ICT" name="setUp" finished-at="2022-02-19T23:27:21 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testNewAPI()[pri:1, instance:apiTest.createMockUpAPI@6a6afff2]" started-at="2022-02-19T23:27:21 ICT" name="testNewAPI" finished-at="2022-02-19T23:27:21 ICT" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewAPI -->
+      </class> <!-- apiTest.createMockUpAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
