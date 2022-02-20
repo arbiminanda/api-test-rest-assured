@@ -1,6 +1,7 @@
 # api-test-rest-assured
 
 Tools Used: rest-assured, TestNG, json-simple
+
 This is automation API test to create API mockup at mocky.io and try to get request the API thas has been created
 
 # Setting up and running tests
